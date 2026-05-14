@@ -1,0 +1,151 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.890308,
+          -0.5993176
+        ]
+      },
+      "properties": {
+        "name": "18 February 2026 at 14:15",
+        "marker-color": "red"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.894573,
+          -0.5970698
+        ]
+      },
+      "properties": {
+        "name": "18 February 2026 at 16:12",
+        "marker-color": "red",
+        "description": "Ida epiphytic, one at hip height, other at ca. 3 m"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.894056,
+          -0.5955688
+        ]
+      },
+      "properties": {
+        "name": "18 February 2026 at 16:27",
+        "marker-color": "red",
+        "description": "Ida at shoulder height, new adult"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.894057,
+          -0.5958342
+        ]
+      },
+      "properties": {
+        "name": "19 February 2026 at 10:07",
+        "marker-color": "red",
+        "description": "Ida (maybe Xylobium?), 1x 2 m hich und 1x 3,30 m Hoch; Mormolyca sp 1x 1,15 m, 2x 2m, 1x 3m"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.891472,
+          -0.5946389
+        ]
+      },
+      "properties": {
+        "name": "19 February 2026 at 10:51",
+        "marker-color": "red"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.890811,
+          -0.5919292
+        ]
+      },
+      "properties": {
+        "name": "19 February 2026 at 11:24",
+        "marker-color": "red",
+        "description": "Ida, 1x 1m, 1x juvenile 2m, 1 big at6,6 m, canopy camera. 22 m"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.891671,
+          -0.5990691
+        ]
+      },
+      "properties": {
+        "name": "19 February 2026 at 17:57",
+        "marker-color": "red",
+        "description": "really good spot for flying drone on many trees"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.894486,
+          -0.5986211
+        ]
+      },
+      "properties": {
+        "name": "19 February 2026 at 21:10",
+        "marker-color": "red",
+        "description": "Ida from 1,5 - 4,5 m"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.894766,
+          -0.5986026
+        ]
+      },
+      "properties": {
+        "name": "19 February 2026 at 21:13",
+        "marker-color": "red"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.840064,
+          -0.6323122
+        ]
+      },
+      "properties": {
+        "name": "21 February 2026 at 10:08",
+        "marker-color": "red"
+      }
+    }
+  ]
+}

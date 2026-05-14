@@ -17,7 +17,7 @@ figures/*
 *.tmp
 
 # --- Credentials file ---
-credentials_microclimdata.rds
+credentials.rds
 
 # --- macOS system files ---
 *.DS_Store
@@ -27,3 +27,4 @@ credentials_microclimdata.rds
 !data/processed/.gitkeep
 !output/.gitkeep
 !figures/.gitkeep
+.positai

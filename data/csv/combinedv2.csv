@@ -1,0 +1,123 @@
+Source,Area_or_Site,lat,lon,Elevation_m,FieldID,Abundance,Height_m,CanopyHeight_m,pictures,note,Genus,species,Final_ID,datetime
+Field Observations,Maquipucuna,0.123137,-78.629256,1292,NA,1,6.4,12,NA,NA,Brassia,sp.,Brassia sp.,2026-03-27T11:52:00Z
+Field Observations,Maquipucuna,0.122281,-78.629259,1308,NA,1,3.15,7.1,NA,range 2.7-3.6m,Polystachya,concreta,Polystachya concreta,2026-03-27T12:04:00Z
+Field Observations,Maquipucuna,0.122072,-78.629323,1310,NA,1,2.1,14.7,98,range 1.2-3.0m,Polystachya,concreta,Polystachya concreta,2026-03-27T12:08:00Z
+Field Observations,Maquipucuna,0.121695,-78.629609,1321,NA,1,1.4,13,101,foto 101,Brassia,arcuigera,Brassia arcuigera,2026-03-27T12:16:00Z
+Field Observations,Maquipucuna,0.121542,-78.629735,1323,NA,1,2.5,7.7,101,foto 101,Trichopilia,sp.,Trichopilia sp.,2026-03-27T12:21:00Z
+Field Observations,Maquipucuna,0.121497,-78.629857,1326,NA,1,3,6.8,109-113,range 2.5-3.5m,Brassia,sp.,Brassia sp.,2026-03-27T12:26:00Z
+Field Observations,Maquipucuna,0.121497,-78.629857,1326,NA,1,4.05,6.8,114-117,range 3.9-4.2m,Maxillaria,sp1,Maxillaria sp1,2026-03-27T12:26:00Z
+Field Observations,Maquipucuna,0.12127,-78.630188,1329,NA,1,3.95,14,121,range 3.5-4.4m,Brassia,sp.,Brassia sp.,2026-03-27T12:32:00Z
+Field Observations,Maquipucuna,0.121317,-78.630227,1327,NA,1,2.1,16,NA,NA,Maxillaria,sp1,Maxillaria sp1,2026-03-27T12:35:00Z
+Field Observations,Maquipucuna,0.121373,-78.630176,1330,NA,1,5.5,16,NA,range 3.1-7.9m,Maxillaria,sp1,Maxillaria sp1,2026-03-27T12:37:00Z
+Field Observations,Maquipucuna,0.121243,-78.630373,1331,NA,1,3.2,7.1,127,foto 127,Brassia,sp.,Brassia sp.,2026-03-27T12:39:00Z
+Field Observations,Maquipucuna,0.121204,-78.630376,1328,NA,1,4.8,7.1,NA,NA,Brassia,sp.,Brassia sp.,2026-03-27T12:42:00Z
+Field Observations,Maquipucuna,0.121316,-78.631043,1326,NA,1,3.9,11.1,NA,NA,Brassia,sp.,Brassia sp.,2026-03-27T12:46:00Z
+Field Observations,Maquipucuna,0.121194,-78.631535,1327,NA,1,3.3,8.3,NA,range 2.9-3.7m,Oncidiinae,sp.,Oncidiinae sp.,2026-03-27T12:53:00Z
+Field Observations,Maquipucuna,0.121182,-78.631641,1329,NA,1,2,14,139,foto 139,Trichopilia,sp.,Trichopilia sp.,2026-03-27T12:58:00Z
+Field Observations,Maquipucuna,0.121182,-78.631641,1329,NA,1,1,14,140,foto 140,Epidendrum ,sp.,Epidendrum  sp.,2026-03-27T12:58:00Z
+Field Observations,Maquipucuna,0.120783,-78.63209,1340,NA,1,3.9,18,NA,NA,Epidendrum ,sp.,Epidendrum  sp.,2026-03-27T15:01:00Z
+Field Observations,Maquipucuna,0.12024,-78.632087,1337,NA,1,5.35,17.1,168-169,range 3.9-6.8m,Epidendrum,macroophorum,Epidendrum macroophorum,2026-03-27T15:10:00Z
+Field Observations,Maquipucuna,0.12013,-78.632084,1340,NA,1,12.9,17.1,NA,NA,Epidendrum ,sp.,Epidendrum  sp.,2026-03-27T15:22:00Z
+Field Observations,Maquipucuna,0.12013,-78.632084,1340,NA,1,5.4,17.1,NA,NA,Epidendrum ,sp.,Epidendrum  sp.,2026-03-27T15:22:00Z
+Field Observations,Maquipucuna,0.12013,-78.632084,1340,NA,2,12.8,17.1,NA,NA,Scelochilus,sp.,Scelochilus sp.,2026-03-27T15:22:00Z
+Field Observations,Maquipucuna,0.120044,-78.632135,1341,NA,1,5.3,14,171,foto 171,Maxillaria,sp. B,Maxillaria sp. B,2026-03-27T15:25:00Z
+Field Observations,Maquipucuna,0.119914,-78.632165,1340,NA,1,14.5,15.4,17,foto 17,Trichopilia,sp.,Trichopilia sp.,2026-03-27T15:30:00Z
+Field Observations,Maquipucuna,0.119953,-78.632248,1342,NA,1,7.8,15.4,174-176,foto 174-176,Chondrorhyncha,embreei,Chondrorhyncha embreei,2026-03-27T15:33:00Z
+Field Observations,Maquipucuna,0.119953,-78.632248,1342,NA,1,7.7,15.4,174-176,foto 174-176,Chondrorhyncha,embreei,Chondrorhyncha embreei,2026-03-27T15:33:00Z
+Field Observations,Maquipucuna,0.119618,-78.632612,1351,NA,1,5.1,16.8,178,foto 178,Maxillaria,acutifolia,Maxillaria acutifolia,2026-03-27T15:33:00Z
+Field Observations,Maquipucuna,0.119618,-78.632612,1351,NA,1,5.4,16.8,179,foto 179,Maxillaria,acutifolia,Maxillaria acutifolia,2026-03-27T15:33:00Z
+Field Observations,Maquipucuna,0.119618,-78.632612,1351,NA,1,7.9,16.8,177,foto 177,Trichopilia,sp.,Trichopilia sp.,2026-03-27T15:33:00Z
+Field Observations,Maquipucuna,0.119618,-78.632612,1351,NA,1,2.9,16.8,182,foto 182,Maxillaria,sp. B,Maxillaria sp. B,2026-03-27T15:33:00Z
+Field Observations,Maquipucuna,0.119523,-78.632763,1352,NA,1,4.1,11.6,183,foto 183,Brassia,sp.,Brassia sp.,2026-03-27T15:50:00Z
+Field Observations,Maquipucuna,0.119339,-78.633345,1357,NA,1,3.1,19,185,foto 185,Epidendrum ,sp.,Epidendrum  sp.,2026-03-27T16:01:00Z
+Field Observations,Maquipucuna,0.119285,-78.633394,1359,NA,1,2,19,NA,NA,Epidendrum ,sp.,Epidendrum  sp.,2026-03-27T16:06:00Z
+Field Observations,MiradorMindo,-0.020174,-78.761905,1707,NA,1,6,NA,NA,NA,Oncidium,sp.,Oncidium sp.,2026-03-24T10:55:00Z
+Field Observations,MiradorMindo,-0.020122,-78.762915,1703,NA,1,2.4,NA,NA,NA,,,,2026-03-24T11:17:00Z
+Field Observations,MiradorMindo,-0.020413,-78.763031,1702,NA,1,2.9,NA,NA,NA,Oncidiinae,sp.,Oncidiinae sp.,2026-03-24T11:20:00Z
+Field Observations,MiradorMindo,0.008553,-78.824713,1276,NA,1,4,NA,NA,NA,Oncidiinae,sp.,Oncidiinae sp.,2026-03-24T16:11:00Z
+Field Observations,MiradorMindo,0.008641,-78.824511,1283,NA,1,7.6,NA,NA,NA,,, ,2026-03-24T16:15:00Z
+Field Observations,MiradorMindo,0.008934,-78.824791,1289,NA,1,6.5,NA,NA,NA,Maxillaria,acutifolia,Maxillaria acutifolia,2026-03-24T16:24:00Z
+Field Observations,MiradorMindo,0.009832,-78.824755,1327,NA,1,3.3,NA,NA,NA,Dichaea,sodiroi,Dichaea sodiroi,2026-03-24T16:38:00Z
+Field Observations,MiradorMindo,0.009929,-78.824688,1337,NA,1,2.8,NA,NA,NA,Maxillaria,ecuadorensis,Maxillaria ecuadorensis,2026-03-24T16:43:00Z
+Field Observations,Mashpi,0.165894,-78.878003,926,NA,1,5.9,15,246,foto 246,Ada,elegantula,Ada elegantula,2026-03-28T12:55:00Z
+Field Observations,Mashpi,0.165851,-78.878046,923,NA,1,6.3,15,NA,NA,Maxillaria,sp.,Maxillaria sp.,2026-03-28T13:01:00Z
+Field Observations,Mashpi,0.165958,-78.877974,922,NA,NA,NA,NA,NA,NA,Cryptocentrum,sp.,Cryptocentrum sp.,2026-03-28T13:18:00Z
+Field Observations,Mashpi,0.165748,-78.878092,923,NA,1,15.3,22,253,foto 253,Maxillaria,sp.,Maxillaria sp.,2026-03-28T13:18:00Z
+Field Observations,Mashpi,0.165748,-78.878092,923,NA,1,15.4,22,254,foto 254,Maxillaria,sp.,Maxillaria sp.,2026-03-28T13:18:00Z
+Field Observations,Mashpi,0.165748,-78.878092,923,NA,1,16.3,22,255,foto 255,Oncidiinae,sp.,Oncidiinae sp.,2026-03-28T13:18:00Z
+Field Observations,Mashpi,0.165748,-78.878092,923,NA,1,13.5,22,256,foto 256,Araceae,,Araceae ,2026-03-28T13:18:00Z
+Field Observations,Mashpi,0.166076,-78.877816,927,NA,1,6.3,20.5,265,foto 265,Prosthechea,sp.,Prosthechea sp.,2026-03-28T13:46:00Z
+Field Observations,Mashpi,0.166183,-78.877786,928,NA,1,11.9,17.6,274,foto 274,Epidendrum ,sp.,Epidendrum  sp.,2026-03-28T14:01:00Z
+Field Observations,Mashpi,0.166178,-78.877737,925,NA,1,8.4,16.4,277,foto 277,Sobralia,sp.,Sobralia sp.,2026-03-28T14:08:00Z
+Field Observations,Mashpi,0.166529,-78.877121,950,NA,1,9.1,14.6,283-285,foto 283-285,Maxillaria,sp. A,Maxillaria sp. A,2026-03-28T14:18:00Z
+Field Observations,Mashpi,0.166384,-78.875797,985,NA,1,17,NA,295-297,foto 295-297,Maxillaria,sp. C,Maxillaria sp. C,2026-03-28T14:36:00Z
+Field Observations,Mashpi,0.166358,-78.873477,1001,NA,1,4.1,19,302-308,foto 302-308,Epidendrum ,sp.,Epidendrum  sp.,2026-03-28T14:59:00Z
+Field Observations,Mashpi,0.165662,-78.87324,999,NA,1,15.9,NA,311,foto 311,Maxillaria,sp. D,Maxillaria sp. D,2026-03-28T15:08:00Z
+Field Observations,Mashpi,0.165772,-78.872923,1004,NA,1,14.7,17.8,317,foto 317,Elleanthus,graminifolius,Elleanthus graminifolius,2026-03-28T15:13:00Z
+Field Observations,Mashpi,0.165832,-78.872708,1007,NA,1,17.2,NA,318-322,foto 318-322,Scaphyglottis ,sp.,Scaphyglottis  sp.,2026-03-28T15:18:00Z
+Field Observations,Mashpi,0.166488,-78.880055,912,NA,1,8.8,20.7,352,foto 352,Maxillaria,bradei,Maxillaria bradei,2026-03-29T08:07:00Z
+Field Observations,Mashpi,0.166537,-78.880079,915,NA,1,8.9,10.6,356,foto 356,Maxillaria,sp. B,Maxillaria sp. B,2026-03-29T08:10:00Z
+Field Observations,Mashpi,0.166537,-78.880079,915,NA,1,8.4,10.6,357,foto 357,Maxillaria,sp. C,Maxillaria sp. C,2026-03-29T08:10:00Z
+Field Observations,Mashpi,0.166537,-78.880079,915,NA,1,9.5,10.6,358-359,foto 358-359,Maxillaria,sp.,Maxillaria sp.,2026-03-29T08:10:00Z
+Field Observations,Mashpi,0.166533,-78.880165,913,NA,1,8.5,15.2,360-361,foto 360-361,Maxillaria,sp. B,Maxillaria sp. B,2026-03-29T08:14:00Z
+Field Observations,Mashpi,0.166566,-78.880359,915,NA,2,12.8,19.9,362-368,foto 362-368,Maxillaria, bradei,Maxillaria  bradei,2026-03-29T08:22:00Z
+Field Observations,Mashpi,0.166614,-78.880531,917,NA,1,16.2,25.4,369-370,foto 369-370,Scaphyglottis ,sp.,Scaphyglottis  sp.,2026-03-29T08:26:00Z
+Field Observations,Mashpi,0.166598,-78.880563,915,NA,1,11.4,23.6,371-372,foto 371-372,Scaphyglottis ,sp.,Scaphyglottis  sp.,2026-03-29T08:29:00Z
+Field Observations,Mashpi,0.166617,-78.88068,917,NA,1,4.3,27.6,374-375,foto 374-375,Scaphyglottis ,sp.,Scaphyglottis  sp.,2026-03-29T08:33:00Z
+Field Observations,Mashpi,0.166677,-78.880999,915,NA,1,12.2,20,379-380,foto 379-380,Scaphyglottis ,sp.,Scaphyglottis  sp.,2026-03-29T08:42:00Z
+Field Observations,Mashpi,0.166677,-78.880999,915,NA,1,14.1,20,381,foto 381,Maxillaria,sp.,Maxillaria sp.,2026-03-29T08:42:00Z
+Field Observations,Mashpi,0.166808,-78.881098,919,NA,1,7.6,17.8,389,foto 389,Maxillaria,sp. B,Maxillaria sp. B,2026-03-29T08:50:00Z
+Field Observations,Mashpi,0.166808,-78.881098,919,NA,1,9.1,17.8,386-388,foto 386-388,Maxillaria,sp. A,Maxillaria sp. A,2026-03-29T08:50:00Z
+Field Observations,Mashpi,0.166875,-78.881275,922,NA,1,7.1,21.2,390-391,foto 390-391,Maxillaria,sp. A,Maxillaria sp. A,2026-03-29T08:58:00Z
+Field Observations,Mashpi,0.166875,-78.881275,922,NA,1,6.3,21.2,392,foto 392,Oncidiinae,sp.,Oncidiinae sp.,2026-03-29T08:58:00Z
+Field Observations,Mashpi,0.166875,-78.881275,922,NA,1,5,21.2,393,foto 393,Maxillaria, bradei,Maxillaria  bradei,2026-03-29T08:58:00Z
+Field Observations,Mashpi,0.16683,-78.881349,921,NA,1,13.6,21.6,397,foto 397,Maxillaria,sp. A,Maxillaria sp. A,2026-03-29T09:05:00Z
+Field Observations,Mashpi,0.166858,-78.881461,921,NA,1,7.4,16.1,400,foto 400,Maxillaria,sp. C,Maxillaria sp. C,2026-03-29T09:10:00Z
+Field Observations,MindoTarabita,-0.079583605,-78.760773,NA,NA,1,2.4,21,NA,"Real for Pleurothallis at 2.4m h,",Maxillaria,sp.,Maxillaria sp.,2026-03-06T09:59:00Z
+Field Observations,MindoTarabita,-0.080206124,-78.761561,NA,NA,1,6.2,35,NA,Sudamelycaste maybe fimbriata  at 6.2m one big individual with flower and fruit At 7.4m young smaller At 6.2 small At 7.8 super small  Maxillaria sp.1  Between 18 and 26m covering all branches,Maxillaria,sp.,Maxillaria sp.,2026-03-06T10:17:00Z
+Field Observations,MindoTarabita,-0.080206124,-78.761561,NA,NA,1,7.4,35,NA,Sudamelycaste maybe fimbriata  at 6.2m one big individual with flower and fruit At 7.4m young smaller At 6.2 small At 7.8 super small  Maxillaria sp.1  Between 18 and 26m covering all branches,Maxillaria,sp.,Maxillaria sp.,2026-03-06T10:17:00Z
+Field Observations,MindoTarabita,-0.080372114,-78.761578,NA,NA,1,3.1,NA,NA,Xylobium sp.1 At 3.1 m big individual At 5.5m smaller individual At 2m smaller individual,Maxillaria,sp.,Maxillaria sp.,2026-03-06T10:38:00Z
+Field Observations,MindoTarabita,-0.080372114,-78.761578,NA,NA,1,5.5,NA,NA,Xylobium sp.1 At 3.1 m big individual At 5.5m smaller individual At 2m smaller individual,Maxillaria, bradei,Maxillaria  bradei,2026-03-06T10:38:00Z
+Field Observations,MindoTarabita,-0.080372114,-78.761578,NA,NA,1,2,NA,NA,Xylobium sp.1 At 3.1 m big individual At 5.5m smaller individual At 2m smaller individual,Scaphyglottis ,sp.,Scaphyglottis  sp.,2026-03-06T10:38:00Z
+Field Observations,MindoTarabita,-0.080420531,-78.761599,NA,NA,1,6,18,NA,Sudamelycaste sp.1 At 6m  Maybe the same one At 7.5m,Sudamelycaste,sp1,Sudamelycaste sp1,2026-03-06T10:46:00Z
+Field Observations,MindoTarabita,-0.080420531,-78.761599,NA,NA,1,7.5,18,NA,Sudamelycaste sp.1 At 6m  Maybe the same one At 7.5m,Sudamelycaste,sp1,Sudamelycaste sp1,2026-03-06T10:46:00Z
+Field Observations,MindoTarabita,-0.080581893,-78.761675,NA,NA,1,4.6,NA,NA,NA,Xylobium,sp.,Xylobium sp.,2026-03-06T10:58:00Z
+Field Observations,MindoTarabita,-0.080693401,-78.762004,NA,NA,1,4.7,8.7,NA,Juvenile Sudamelycaste sp..  At 4.7m height,Sudamelycaste,sp.,Sudamelycaste sp.,2026-03-06T11:11:00Z
+Field Observations,MindoTarabita,-0.0807594,-78.762378,NA,NA,NA,NA,5.7,NA,NA,Maxillaria,sp.,Maxillaria sp.,2026-03-06T11:31:00Z
+Field Observations,MindoTarabita,-0.079564,-78.760783,NA,NA,1,2.4,21,NA,pleurothallis at 2.4 m height.,Pleurothallis,sp.,Pleurothallis sp.,2026-03-06T09:57:00Z
+Field Observations,MindoTarabita,-0.081402,-78.762263,NA,NA,1,7.3,30,NA,NA,Sudamerlycaste,sp.,Sudamerlycaste sp.,2026-03-06T12:01:00Z
+Field Observations,MindoTarabita,-0.081402,-78.762263,NA,NA,1,4.2,30,NA,NA,Sudamerlycaste,sp.,Sudamerlycaste sp.,2026-03-06T12:01:00Z
+Field Observations,MindoTarabita,-0.081411,-78.762237,NA,NA,1,3,NA,NA,"sudamerlycaste w flower at 3 m high, 4 individuals",Sudamerlycaste,sp.,Sudamerlycaste sp.,2026-03-06T12:06:00Z
+Field Observations,MindoTarabita,-0.081968,-78.762166,NA,NA,1,11,NA,NA,"sudamerlycaste sp.2 (yellow bigger), flowering. 1 flowering individuals at 11m and 3 individuals (1 flowering) at 13m. tree w 25 m height. At a cecropia nearby (20 m) us a maxillaria similar to epidendrum at 13 m.",Sudamerlycaste,sp2,Sudamerlycaste sp2,2026-03-06T12:27:00Z
+Field Observations,MindoTarabita,-0.081968,-78.762166,NA,NA,1,13,NA,NA,"sudamerlycaste sp.2 (yellow bigger), flowering. 1 flowering individuals at 11m and 3 individuals (1 flowering) at 13m. tree w 25 m height. At a cecropia nearby (20 m) us a maxillaria similar to epidendrum at 13 m.",Sudamerlycaste,sp2,Sudamerlycaste sp2,2026-03-06T12:27:00Z
+Field Observations,MindoTarabita,-0.081968,-78.762166,NA,NA,1,13,NA,NA,"sudamerlycaste sp.2 (yellow bigger), flowering. 1 flowering individuals at 11m and 3 individuals (1 flowering) at 13m. tree w 25 m height. At a cecropia nearby (20 m) us a maxillaria similar to epidendrum at 13 m.",Sudamerlycaste,sp2,Sudamerlycaste sp2,2026-03-06T12:27:00Z
+Field Observations,MindoTarabita,-0.082197,-78.762286,NA,NA,1,5,NA,NA,NA,Maxillaria,sp.,Maxillaria sp.,2026-03-06T12:47:00Z
+Field Observations,MindoTarabita,-0.082197,-78.762286,NA,NA,1,10,NA,NA,NA,Maxillaria,sp.,Maxillaria sp.,2026-03-06T12:47:00Z
+Field Observations,MindoTarabita,-0.082197,-78.762286,NA,NA,1,23,NA,NA,NA,Maxillaria,sp.,Maxillaria sp.,2026-03-06T12:47:00Z
+Field Observations,MindoTarabita,-0.082243,-78.762291,NA,NA,1,4,NA,NA,NA,Maxillaria,sp2,Maxillaria sp2,2026-03-06T12:47:00Z
+Field Observations,MindoTarabita,-0.082243,-78.762291,NA,NA,1,6.5,NA,NA,NA,Maxillaria,sp2,Maxillaria sp2,2026-03-06T12:47:00Z
+Field Observations,MindoTarabita,-0.082647,-78.76223,NA,NA,1,9.7,NA,NA,NA,Xylobium,sp.,Xylobium sp.,2026-03-06T13:03:00Z
+Field Observations,MindoTarabita,-0.082647,-78.76223,NA,NA,1,20,NA,NA,NA,Xylobium,sp.,Xylobium sp.,2026-03-06T13:03:00Z
+Field Observations,MindoTarabita,-0.083903,-78.762553,NA,NA,1,3,NA,NA,sudamerlycaste seedling at 3 m hight. canopy aro7nd 15 m. and the maxillaria sp. 1 similar to epidendrum at another tree next to it at around 6 m height.,Sudamerlycaste,sp.,Sudamerlycaste sp.,2026-03-06T13:29:00Z
+Field Observations,MindoTarabita,-0.084022,-78.762474,NA,NA,1,3.8,NA,NA,3 xylobium at 3.8 m to 5.7 m high on a treefern of 8.1 high. canopy of higher tree 30 plus.,Xylobium,sp.,Xylobium sp.,2026-03-06T13:33:00Z
+Field Observations,MindoTarabita,-0.084737,-78.76241,NA,NA,1,2,NA,NA,NA,Sudamerlycaste,sp.,Sudamerlycaste sp.,2026-03-06T13:44:00Z
+Field Observations,MindoTarabita,-0.084737,-78.76241,NA,NA,1,12,NA,NA,NA,Sudamerlycaste,sp.,Sudamerlycaste sp.,2026-03-06T13:44:00Z
+Field Observations,MindoTarabita,-0.084737,-78.76241,NA,NA,1,6,NA,NA,NA,Sudamerlycaste,sp.,Sudamerlycaste sp.,2026-03-06T13:44:00Z
+Field Observations,MindoTarabita,-0.085407,-78.762198,NA,NA,1,4.5,NA,NA,"sudamerlycaste sp.2 at 4.5 m, and at a tree next to it a xylobium at 6 m and the maxllaria camaridium sp.2 at 5 m",Sudamerlycaste,sp2,Sudamerlycaste sp2,2026-03-06T13:53:00Z
+Field Observations,MindoTarabita,-0.085407,-78.762198,NA,NA,1,6,NA,NA,"sudamerlycaste sp.2 at 4.5 m, and at a tree next to it a xylobium at 6 m and the maxllaria camaridium sp.2 at 5 m",Sudamerlycaste,sp2,Sudamerlycaste sp2,2026-03-06T13:53:00Z
+Field Observations,MindoTarabita,-0.085407,-78.762198,NA,NA,1,5,NA,NA,"sudamerlycaste sp.2 at 4.5 m, and at a tree next to it a xylobium at 6 m and the maxllaria camaridium sp.2 at 5 m",Sudamerlycaste,sp2,Sudamerlycaste sp2,2026-03-06T13:53:00Z
+Field Observations,MindoTarabita,-0.085842,-78.761954,NA,NA,NA,NA,NA,NA,NA,Maxillaria,sp.,Maxillaria sp.,2026-03-06T14:01:00Z
+Field Observations,MindoTarabita,-0.085922,-78.76185,NA,NA,1,3.9,NA,NA,NA,Maxillaria,sp.,Maxillaria sp.,2026-03-06T14:04:00Z
+Field Observations,MindoTarabita,-0.085922,-78.76185,NA,NA,1,4.6,NA,NA,NA,Maxillaria,sp.,Maxillaria sp.,2026-03-06T14:04:00Z
+Field Observations,Yanayacu,-0.5970698,-77.894573,NA,NA,1,3,NA,NA,NA,Ida,sp.,Ida sp.,2026-02-18T16:12:00Z
+Field Observations,Yanayacu,-0.5955688,-77.894056,NA,NA,NA,NA,NA,NA,NA,Ida,sp.,Ida sp.,2026-02-18T16:27:00Z
+Field Observations,Yanayacu,-0.5958342,-77.894057,NA,NA,1,2,NA,NA,NA,Ida,sp.,Ida sp.,2026-02-19T10:07:00Z
+Field Observations,Yanayacu,-0.5958342,-77.894057,NA,NA,1,30,NA,NA,NA,Ida,sp.,Ida sp.,2026-02-19T10:07:00Z
+Field Observations,Yanayacu,-0.5958342,-77.894057,NA,NA,1,15,NA,NA,NA,Ida,sp.,Ida sp.,2026-02-19T10:07:00Z
+Field Observations,Yanayacu,-0.5958342,-77.894057,NA,NA,1,2,NA,NA,NA,Ida,sp.,Ida sp.,2026-02-19T10:07:00Z
+Field Observations,Yanayacu,-0.5958342,-77.894057,NA,NA,1,3,NA,NA,NA,Ida,sp.,Ida sp.,2026-02-19T10:07:00Z
+Field Observations,Yanayacu,-0.5919292,-77.890811,NA,NA,1,1,NA,NA,NA,Ida,sp.,Ida sp.,2026-02-19T11:24:00Z
+Field Observations,Yanayacu,-0.5919292,-77.890811,NA,NA,1,2,NA,NA,NA,Ida,sp.,Ida sp.,2026-02-19T11:24:00Z
+Field Observations,Yanayacu,-0.5919292,-77.890811,NA,NA,1,6,NA,NA,NA,Ida,sp.,Ida sp.,2026-02-19T11:24:00Z
+Field Observations,Yanayacu,-0.5919292,-77.890811,NA,NA,1,22,NA,NA,NA,Ida,sp.,Ida sp.,2026-02-19T11:24:00Z
+Field Observations,Yanayacu,-0.5986211,-77.894486,NA,NA,1,5,NA,NA,NA,Ida,sp.,Ida sp.,2026-02-19T21:10:00Z
